@@ -58,7 +58,7 @@ The folder structure should look like
 │       └── mapping.txt
 ├── ckpt/
 │   └── PKU-subject/
-│       ├── config_result/
+│       └── config_result/
 │           └── best_test_model.pth.tar
 ├── libs/
 ├── main.py
