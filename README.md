@@ -40,7 +40,7 @@ conda activate InterAct
 
 Unpack the file under `./data` (or elsewhere and link to `./data`).
 
-## Pre-Trained Models
+### Pre-Trained Models
 Pre-trained model weights can be downloaded from [here](https://pan.baidu.com/s/1gdObJN_BgyQlS72P-NOfZw?pwd=faex). You can place the files under `./ckpt`.
 
 The folder structure should look like
